@@ -14,5 +14,7 @@ class FileReader{
 
     string name;
     ifstream inFile;
+    string line;
+    int counter;
 
 };
